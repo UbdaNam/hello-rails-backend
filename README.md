@@ -104,7 +104,7 @@ rails db:seed
 ```
 
 ```Start server
-rails server
+rails server -p 3001
 ```
 
 <!-- AUTHORS -->
